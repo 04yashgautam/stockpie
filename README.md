@@ -48,7 +48,7 @@ npm install
 npm start
 ```
 
-Frontend will run at **[http://localhost:3000](http://localhost:5173)**, with backend APIs on **[http://localhost:8000](http://localhost:8000)**.
+Frontend will run at **[http://localhost:5173]**, with backend APIs on **[http://localhost:8000]**.
 
 ---
 
@@ -100,7 +100,7 @@ Ensure you have:
    npm start
    ```
 
-   Visit **[http://localhost:3000](http://localhost:3000)** to use the app.
+   Visit **[http://localhost:5173]** to use the app.
 
 ---
 
