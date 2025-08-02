@@ -24,7 +24,7 @@ StockPie is a full-stack application designed to provide real-time stock insight
 4. 📥[Installation & Setup](#-installation--setup)
 5. 🧭[Project Structure](#-project-structure)
 7. 📦[Dependencies (`requirements.txt` / `package.json`)](#-dependencies-requirementstxt--packagejson)
-8. ⚒️[Customization Tips & Extensions](#-customization-tips--extensions)
+8. ⚒️[Customization Tips & Extensions](#%EF%B8%8F-customization-tips--extensions)
 9. 🐛[Troubleshooting](#-troubleshooting)
 10. 📫[Contact](#-contact)
 
