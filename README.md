@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/React-17.x-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-cyan.svg)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas%20\(or%20Local\)-green.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 
 StockPie is a full-stack application designed to provide real-time stock insights and portfolio analytics. It features a **React frontend**, **FastAPI backend**, and **MongoDB** data storage.
 
