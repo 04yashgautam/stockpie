@@ -5,7 +5,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas%20\(or%20Local\)-green.svg)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 
-StockPie is a full-stack application designed to provide real-time stock insights and portfolio analytics. It features a **React frontend**, **FastAPI backend**, and **MongoDB** data storage.
+StockPie is an AI-powered full-stack application that delivers real-time stock insights and portfolio analytics. Built with a **React** frontend, **FastAPI** backend, and **MongoDB** for data storage, it utilizes an **LSTM-based** deep learning model for intelligent and accurate stock price predictions.
 
 ---
 
