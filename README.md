@@ -9,6 +9,13 @@ StockPie is a full-stack application designed to provide real-time stock insight
 
 ---
 
+<img src="frontend/src/assets/home.png" alt="Dashboard Preview" width="1200">
+
+<img src="frontend/src/assets/dashboard.png" alt="Dashboard Preview" width="1200">
+
+
+
+
 ## 📋 Table of Contents
 
 1. 🚀[Quick Start](#-quick-start)
